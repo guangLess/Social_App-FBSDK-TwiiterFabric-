@@ -1,13 +1,10 @@
 
 
--facebook user login
+-facebook user login -> FBSDK graph api getting data
 
--FBSDK graph api getting data
+-twitter Fabric frameworks guest login -> twitter APIClient with tweetID
 
--twitter Fabric frameworks guest login
-
--twitter APIClient with tweetID
-
--populate UICollectionView with facebook data.
+-populate UICollectionView with facebook graph api data.
 
 
+![alt tag](https://whimsicalbeings.squarespace.com/beluga)
