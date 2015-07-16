@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface FBCell : UICollectionViewCell
+@property (strong, nonatomic) IBOutlet UILabel *cellContent;
 
 @end

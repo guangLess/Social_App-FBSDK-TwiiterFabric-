@@ -7,8 +7,17 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <FBSDKCoreKit/FBSDKCoreKit.h>
+#import <FBSDKLoginKit/FBSDKLoginKit.h>
+
+
+
+
+@class MainViewController;
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) MainViewController *viewController;
 
 @property (strong, nonatomic) UIWindow *window;
 
